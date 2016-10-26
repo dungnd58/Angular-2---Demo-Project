@@ -1,0 +1,1 @@
+{"version":3,"file":"fruit-component.js","sourceRoot":"","sources":["fruit-component.ts"],"names":[],"mappings":";;;;;;;;;;AAAA,qBAAwB,eAAe,CAAC,CAAA;AACxC,+BAA+B,kBAAkB,CAAC,CAAA;AAQlD;IAAA;IAA2B,CAAC;IAN5B;QAAC,gBAAS,CAAC;YACP,QAAQ,EAAE,QAAQ;YAClB,QAAQ,EAAE,qBAAqB;YAC/B,UAAU,EAAE,CAAC,gCAAe,CAAC;SAChC,CAAC;;oBAAA;IAEyB,mBAAC;AAAD,CAAC,AAA5B,IAA4B;AAAf,oBAAY,eAAG,CAAA"}
